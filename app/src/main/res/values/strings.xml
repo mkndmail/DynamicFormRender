@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DynamicFormRender</string>
+    <string name="submit">Submit</string>
+    <string name="form_data_entered">Data Entered in Form</string>
+    <string name="filled_form">Filled Form</string>
+</resources>
